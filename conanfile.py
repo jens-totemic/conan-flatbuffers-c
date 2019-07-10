@@ -23,7 +23,7 @@ class PahocConan(ConanFile):
         "type": "git",
         #"subfolder": source_subfolder,
         "url": "https://github.com/dvidelabs/flatcc.git",
-        # latest commit, 2019.02.24, 
+        # latest commit, 2019.03.07, 
         "revision": "7511cb0533a423b41855e67f516af0ba11e5bf81"
     }
 
