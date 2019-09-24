@@ -4,7 +4,7 @@ from conans import ConanFile, CMake, tools
 
 class PahocConan(ConanFile):
     name = "flatbuffers-c"
-    version = "0.6.0-pre0307"
+    version = "0.6.0"
     license = "Apache License 2.0"
     homepage = "https://github.com/dvidelabs/flatcc"
     description = "FlatBuffers Compiler and Library in C for C"
@@ -23,8 +23,8 @@ class PahocConan(ConanFile):
         "type": "git",
         #"subfolder": source_subfolder,
         "url": "https://github.com/dvidelabs/flatcc.git",
-        # latest commit, 2019.03.07, 
-        "revision": "7511cb0533a423b41855e67f516af0ba11e5bf81"
+        # latest commit, 2019.08.17, 
+        "revision": "571dc4100670b0df51f727dc6ab747a8851f4695"
     }
 
     def config_options(self):
