@@ -1,5 +1,3 @@
 # conan-flatbuffers-c
 
-[Conan.io](https://conan.io) package for [flatbuffers-c](https://github.com/dvidelabs/flatcc) project
-
-
+Moved to https://github.com/totemic/conan-package-recipes
